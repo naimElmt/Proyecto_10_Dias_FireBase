@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">10 películas para 10 dias</string>
+    <string name="dia">Dia %s</string>
+    <string name="titulo">\"%s\"</string>
+    <string name="descripcion">\%s\</string>
+
+</resources>

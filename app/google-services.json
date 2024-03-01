@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "678632861445",
+    "project_id": "peliculasapp-80c8b",
+    "storage_bucket": "peliculasapp-80c8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678632861445:android:130d04c132e2293137116c",
+        "android_client_info": {
+          "package_name": "com.example.firebase_10pelis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyIDe0Ns4M7ulDpq6yvORDDrP06CIX_nQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
